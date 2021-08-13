@@ -1,0 +1,5 @@
+# Windows files
+[*.bat]
+end_of_line = crlf
+indent_style = tabs
+indent_size = 2
